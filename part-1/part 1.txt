@@ -1,0 +1,17 @@
+1. Apa peran utama seorang Data Engineer dalam ekosistem data? Bagaimana peran ini berbeda dari Data Scientist dan Data Analyst? 
+
+data engineer bertugas dalam memproses data mentah dan membersihkan, merubah, menganalisis, dan menerbitkan dalam bentuk yang memiliki makna dan berguna untuk individu atau organisasi.
+
+perbedaan dengan data scientist adalah data scientist bertanggung jawab untuk menganalisis data dengan menggunakan algoritma dan teknik statistik dan machine learning untuk mendapatkan wawasan yang mendalam dan membuat prediksi.
+
+perbedaan dengan data analyst adalah Analyst lebih fokus pada menganalisis data untuk memberikan wawasan yang dapat digunakan oleh perusahaan untuk pengambilan keputusan. 
+
+2. berikan beberapa contoh peran dari seorang Data Engineer yang mungkin bersinggungan atau bahkan sama dengan peran Data Scientist dan Data Analyst !
+
+yang memiliki persamaan dengan data analyst adalah visualisasi data dan membantu dalam keputusan bisnis
+
+yang memiliki persasmaan dengan data scientist adalah pembersihan dan persiapan data, dan membuat atau mengembangkan dan implementasi algoritma
+
+3. Jelaskan langkah-langkah proses ETL dan ELT yang berperan dalam pekerjaan seorang data engineer !
+
+data engineer bertanggung jawab dalam menrancang, menjalankan, dan mengembangankan proses ETL atau ELT agar data yang  tersedia dapat diandalkan.
