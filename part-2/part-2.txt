@@ -1,0 +1,14 @@
+Kapan kita harus menggunakan relational database atau nosql database ?
+
+Relational database lebih baik dipakai dengan data terstruktur, dimana skema data telah ditetapkan dengan jelas.
+Sedangkan NoSQL database lebih baik dipakai untuk data yang tidak terstruktur atau semi-terstruktur, agar dapat berubah secara dinamis.
+
+Apa perbedaan antara database, data lake, data warehouse, dan data mart ?
+
+database adalah tempat untuk menyimpan dan mengelola data dalam format terstruktur
+
+Data lake adalah tempat peyimpanan yang besar dan fleksibel untuk seluruh jenis data, terstruktur, semi-struktur, dan tidak terstruktur.
+
+Data Warehouse adalah tempat untuk mengelola data yang sudah terstruktur dari berbagai sumber untuk melakukan sebuah analisa.
+
+Data mart adalah bagian dari data warehouse yang access kepada data disesuaikan dengan kebutuhan sebuah departemen atau unit bisnis tertentu.
